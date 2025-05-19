@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>favicon</title>
+    <g id="favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#22205B" x="0" y="0" width="192" height="192" rx="20"></rect>
+        <g id="sparkles-sharp" transform="translate(79.0559, 33)" fill="#FCBF24" fill-rule="nonzero">
+            <polygon id="Path" points="74.4228228 57.0426426 66.6418498 36.3022943 45.9015015 28.5213213 66.6418498 20.7403483 74.4228228 0 82.2037958 20.7403483 102.944144 28.5213213 82.2037958 36.3022943"></polygon>
+            <polygon id="Path" points="14.2606607 28.5213213 10.4410723 18.080249 0 14.2606607 10.4410723 10.4410723 14.2606607 0 18.080249 10.4410723 28.5213213 14.2606607 18.080249 18.080249"></polygon>
+            <polygon id="Path" points="35.206006 82.4444444 31.2448529 72.1449369 20.9453453 68.1837838 31.2448529 64.2226306 35.206006 53.9231231 39.1671592 64.2226306 49.4666667 68.1837838 39.1671592 72.1449369"></polygon>
+        </g>
+        <g id="❯" transform="translate(9.2988, 33)" fill="#E0E7FF" fill-rule="nonzero">
+            <polygon id="Path" points="0 126 39.6419937 63.0421405 0 0 26.6976692 0 65.6115446 63.0421405 26.6976692 126"></polygon>
+        </g>
+        <polygon id="Rectangle" fill="#E0E7FF" transform="translate(130.5279, 148.979) rotate(-90) translate(-130.5279, -148.979)" points="120.506887 104.676404 140.548969 104.676404 140.548969 193.281514 120.506887 193.281514"></polygon>
+    </g>
+</svg>
