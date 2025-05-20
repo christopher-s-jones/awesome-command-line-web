@@ -1,0 +1,959 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="" id="csj_npub_qrcode" viewBox="0 0 280 280">
+  <defs>
+    <clipPath id="clip-path-dot-color">
+      <path d="M 5 89v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,8,92)"/>
+      <path d="M 5 101v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,8,104)"/>
+      <path d="M 5 113v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,8,116)"/>
+      <path d="M 5 119v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,8,122)"/>
+      <circle cx="8" cy="152" r="3" transform="rotate(0,8,152)"/>
+      <circle cx="8" cy="164" r="3" transform="rotate(0,8,164)"/>
+      <circle cx="8" cy="188" r="3" transform="rotate(0,8,188)"/>
+      <circle cx="8" cy="206" r="3" transform="rotate(0,8,206)"/>
+      <circle cx="8" cy="224" r="3" transform="rotate(0,8,224)"/>
+      <path d="M 11 71v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,14,74)"/>
+      <path d="M 11 83v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,14,86)"/>
+      <path d="M 11 89v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,14,92)"/>
+      <rect x="11" y="101" width="6" height="6" transform="rotate(0,14,104)"/>
+      <path d="M 11 113v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,14,116)"/>
+      <circle cx="14" cy="134" r="3" transform="rotate(0,14,134)"/>
+      <path d="M 11 143v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,14,146)"/>
+      <circle cx="14" cy="158" r="3" transform="rotate(0,14,158)"/>
+      <circle cx="14" cy="170" r="3" transform="rotate(0,14,170)"/>
+      <circle cx="14" cy="182" r="3" transform="rotate(0,14,182)"/>
+      <path d="M 11 197v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,14,200)"/>
+      <path d="M 11 215v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,14,218)"/>
+      <path d="M 17 53v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,20,56)"/>
+      <path d="M 17 59v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,20,62)"/>
+      <rect x="17" y="71" width="6" height="6" transform="rotate(0,20,74)"/>
+      <rect x="17" y="83" width="6" height="6" transform="rotate(0,20,86)"/>
+      <path d="M 17 101v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,20,104)"/>
+      <path d="M 17 107v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,20,110)"/>
+      <path d="M 17 119v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,20,122)"/>
+      <path d="M 17 125v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,20,128)"/>
+      <path d="M 17 137v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,20,140)"/>
+      <rect x="17" y="143" width="6" height="6" transform="rotate(0,20,146)"/>
+      <path d="M 17 149v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,20,152)"/>
+      <path d="M 17 191v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,20,194)"/>
+      <rect x="17" y="197" width="6" height="6" transform="rotate(0,20,200)"/>
+      <path d="M 17 203v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,20,206)"/>
+      <rect x="17" y="215" width="6" height="6" transform="rotate(0,20,218)"/>
+      <path d="M 23 71v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,26,74)"/>
+      <rect x="23" y="83" width="6" height="6" transform="rotate(0,26,86)"/>
+      <rect x="23" y="89" width="6" height="6" transform="rotate(0,26,92)"/>
+      <path d="M 23 95v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,26,98)"/>
+      <path d="M 23 119v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,26,122)"/>
+      <rect x="23" y="125" width="6" height="6" transform="rotate(0,26,128)"/>
+      <rect x="23" y="137" width="6" height="6" transform="rotate(0,26,140)"/>
+      <rect x="23" y="143" width="6" height="6" transform="rotate(0,26,146)"/>
+      <rect x="23" y="149" width="6" height="6" transform="rotate(0,26,152)"/>
+      <path d="M 23 155v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,26,158)"/>
+      <path d="M 23 167v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,26,170)"/>
+      <path d="M 23 173v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,26,176)"/>
+      <path d="M 23 191v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,26,194)"/>
+      <rect x="23" y="203" width="6" height="6" transform="rotate(0,26,206)"/>
+      <rect x="23" y="215" width="6" height="6" transform="rotate(0,26,218)"/>
+      <path d="M 23 221v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,26,224)"/>
+      <path d="M 29 53v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,32,56)"/>
+      <path d="M 29 59v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,32,62)"/>
+      <path d="M 29 83v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,32,86)"/>
+      <path d="M 29 95v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,32,98)"/>
+      <rect x="29" y="125" width="6" height="6" transform="rotate(0,32,128)"/>
+      <rect x="29" y="131" width="6" height="6" transform="rotate(0,32,134)"/>
+      <rect x="29" y="137" width="6" height="6" transform="rotate(0,32,140)"/>
+      <rect x="29" y="143" width="6" height="6" transform="rotate(0,32,146)"/>
+      <rect x="29" y="149" width="6" height="6" transform="rotate(0,32,152)"/>
+      <rect x="29" y="155" width="6" height="6" transform="rotate(0,32,158)"/>
+      <rect x="29" y="161" width="6" height="6" transform="rotate(0,32,164)"/>
+      <rect x="29" y="167" width="6" height="6" transform="rotate(0,32,170)"/>
+      <circle cx="32" cy="188" r="3" transform="rotate(0,32,188)"/>
+      <path d="M 29 197v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,32,200)"/>
+      <rect x="29" y="203" width="6" height="6" transform="rotate(0,32,206)"/>
+      <rect x="29" y="209" width="6" height="6" transform="rotate(0,32,212)"/>
+      <rect x="29" y="215" width="6" height="6" transform="rotate(0,32,218)"/>
+      <path d="M 29 221v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,32,224)"/>
+      <rect x="35" y="53" width="6" height="6" transform="rotate(0,38,56)"/>
+      <path d="M 35 77v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,38,80)"/>
+      <path d="M 35 113v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,38,116)"/>
+      <rect x="35" y="125" width="6" height="6" transform="rotate(0,38,128)"/>
+      <rect x="35" y="149" width="6" height="6" transform="rotate(0,38,152)"/>
+      <rect x="35" y="161" width="6" height="6" transform="rotate(0,38,164)"/>
+      <rect x="35" y="167" width="6" height="6" transform="rotate(0,38,170)"/>
+      <rect x="35" y="173" width="6" height="6" transform="rotate(0,38,176)"/>
+      <path d="M 35 179v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,38,182)"/>
+      <path d="M 35 191v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,38,194)"/>
+      <rect x="35" y="197" width="6" height="6" transform="rotate(0,38,200)"/>
+      <path d="M 35 203v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,38,206)"/>
+      <path d="M 41 53v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,44,56)"/>
+      <path d="M 41 65v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,44,68)"/>
+      <rect x="41" y="77" width="6" height="6" transform="rotate(0,44,80)"/>
+      <path d="M 41 89v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,44,92)"/>
+      <circle cx="44" cy="104" r="3" transform="rotate(0,44,104)"/>
+      <path d="M 41 113v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,44,116)"/>
+      <rect x="41" y="125" width="6" height="6" transform="rotate(0,44,128)"/>
+      <circle cx="44" cy="140" r="3" transform="rotate(0,44,140)"/>
+      <rect x="41" y="149" width="6" height="6" transform="rotate(0,44,152)"/>
+      <path d="M 41 161v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,44,164)"/>
+      <path d="M 41 173v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,44,176)"/>
+      <path d="M 41 185v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,44,188)"/>
+      <rect x="41" y="197" width="6" height="6" transform="rotate(0,44,200)"/>
+      <path d="M 41 209v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,44,212)"/>
+      <path d="M 41 221v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,44,224)"/>
+      <path d="M 47 65v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,50,68)"/>
+      <path d="M 47 77v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,50,80)"/>
+      <path d="M 47 89v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,50,92)"/>
+      <circle cx="50" cy="110" r="3" transform="rotate(0,50,110)"/>
+      <path d="M 47 119v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,50,122)"/>
+      <rect x="47" y="125" width="6" height="6" transform="rotate(0,50,128)"/>
+      <rect x="47" y="149" width="6" height="6" transform="rotate(0,50,152)"/>
+      <path d="M 47 155v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,50,158)"/>
+      <path d="M 47 167v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,50,170)"/>
+      <path d="M 47 185v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,50,188)"/>
+      <rect x="47" y="191" width="6" height="6" transform="rotate(0,50,194)"/>
+      <rect x="47" y="197" width="6" height="6" transform="rotate(0,50,200)"/>
+      <path d="M 47 209v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,50,212)"/>
+      <path d="M 47 221v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,50,224)"/>
+      <path d="M 53 11v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,56,14)"/>
+      <path d="M 53 29v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,56,32)"/>
+      <circle cx="56" cy="44" r="3" transform="rotate(0,56,44)"/>
+      <path d="M 53 53v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,56,56)"/>
+      <path d="M 53 59v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,56,62)"/>
+      <path d="M 53 71v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,56,74)"/>
+      <path d="M 53 95v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,56,98)"/>
+      <path d="M 53 101v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,56,104)"/>
+      <path d="M 53 119v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,56,122)"/>
+      <rect x="53" y="125" width="6" height="6" transform="rotate(0,56,128)"/>
+      <rect x="53" y="131" width="6" height="6" transform="rotate(0,56,134)"/>
+      <rect x="53" y="137" width="6" height="6" transform="rotate(0,56,140)"/>
+      <rect x="53" y="143" width="6" height="6" transform="rotate(0,56,146)"/>
+      <path d="M 53 149v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,56,152)"/>
+      <rect x="53" y="167" width="6" height="6" transform="rotate(0,56,170)"/>
+      <path d="M 53 197v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,56,200)"/>
+      <path d="M 53 203v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,56,206)"/>
+      <circle cx="56" cy="230" r="3" transform="rotate(0,56,230)"/>
+      <path d="M 53 239v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,56,242)"/>
+      <path d="M 53 245v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,56,248)"/>
+      <path d="M 53 257v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,56,260)"/>
+      <path d="M 59 5v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,62,8)"/>
+      <rect x="59" y="11" width="6" height="6" transform="rotate(0,62,14)"/>
+      <path d="M 59 17v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,62,20)"/>
+      <path d="M 59 29v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,62,32)"/>
+      <path d="M 59 71v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,62,74)"/>
+      <rect x="59" y="77" width="6" height="6" transform="rotate(0,62,80)"/>
+      <path d="M 59 83v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,62,86)"/>
+      <path d="M 59 107v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,62,110)"/>
+      <path d="M 59 113v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,62,116)"/>
+      <rect x="59" y="125" width="6" height="6" transform="rotate(0,62,128)"/>
+      <path d="M 59 161v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,62,164)"/>
+      <rect x="59" y="167" width="6" height="6" transform="rotate(0,62,170)"/>
+      <rect x="59" y="173" width="6" height="6" transform="rotate(0,62,176)"/>
+      <rect x="59" y="179" width="6" height="6" transform="rotate(0,62,182)"/>
+      <rect x="59" y="185" width="6" height="6" transform="rotate(0,62,188)"/>
+      <path d="M 59 191v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,62,194)"/>
+      <path d="M 59 203v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,62,206)"/>
+      <path d="M 59 215v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,62,218)"/>
+      <path d="M 59 221v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,62,224)"/>
+      <path d="M 59 233v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,62,236)"/>
+      <rect x="59" y="239" width="6" height="6" transform="rotate(0,62,242)"/>
+      <rect x="59" y="245" width="6" height="6" transform="rotate(0,62,248)"/>
+      <rect x="59" y="251" width="6" height="6" transform="rotate(0,62,254)"/>
+      <rect x="59" y="257" width="6" height="6" transform="rotate(0,62,260)"/>
+      <path d="M 59 263v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,62,266)"/>
+      <path d="M 65 5v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,68,8)"/>
+      <rect x="65" y="17" width="6" height="6" transform="rotate(0,68,20)"/>
+      <path d="M 65 23v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,68,26)"/>
+      <path d="M 65 35v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,68,38)"/>
+      <rect x="65" y="41" width="6" height="6" transform="rotate(0,68,44)"/>
+      <rect x="65" y="47" width="6" height="6" transform="rotate(0,68,50)"/>
+      <rect x="65" y="53" width="6" height="6" transform="rotate(0,68,56)"/>
+      <rect x="65" y="59" width="6" height="6" transform="rotate(0,68,62)"/>
+      <path d="M 65 65v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,68,68)"/>
+      <path d="M 65 77v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,68,80)"/>
+      <path d="M 65 83v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,68,86)"/>
+      <rect x="65" y="113" width="6" height="6" transform="rotate(0,68,116)"/>
+      <rect x="65" y="125" width="6" height="6" transform="rotate(0,68,128)"/>
+      <path d="M 65 143v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,68,146)"/>
+      <rect x="65" y="149" width="6" height="6" transform="rotate(0,68,152)"/>
+      <rect x="65" y="155" width="6" height="6" transform="rotate(0,68,158)"/>
+      <rect x="65" y="161" width="6" height="6" transform="rotate(0,68,164)"/>
+      <rect x="65" y="167" width="6" height="6" transform="rotate(0,68,170)"/>
+      <rect x="65" y="173" width="6" height="6" transform="rotate(0,68,176)"/>
+      <rect x="65" y="179" width="6" height="6" transform="rotate(0,68,182)"/>
+      <rect x="65" y="185" width="6" height="6" transform="rotate(0,68,188)"/>
+      <rect x="65" y="191" width="6" height="6" transform="rotate(0,68,194)"/>
+      <path d="M 65 197v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,68,200)"/>
+      <path d="M 65 221v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,68,224)"/>
+      <rect x="65" y="233" width="6" height="6" transform="rotate(0,68,236)"/>
+      <path d="M 65 245v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,68,248)"/>
+      <path d="M 65 251v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,68,254)"/>
+      <rect x="65" y="263" width="6" height="6" transform="rotate(0,68,266)"/>
+      <rect x="71" y="17" width="6" height="6" transform="rotate(0,74,20)"/>
+      <path d="M 71 29v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,74,32)"/>
+      <path d="M 71 53v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,74,56)"/>
+      <path d="M 71 59v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,74,62)"/>
+      <path d="M 71 95v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,74,98)"/>
+      <rect x="71" y="101" width="6" height="6" transform="rotate(0,74,104)"/>
+      <rect x="71" y="107" width="6" height="6" transform="rotate(0,74,110)"/>
+      <rect x="71" y="113" width="6" height="6" transform="rotate(0,74,116)"/>
+      <rect x="71" y="119" width="6" height="6" transform="rotate(0,74,122)"/>
+      <rect x="71" y="125" width="6" height="6" transform="rotate(0,74,128)"/>
+      <path d="M 71 131v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,74,134)"/>
+      <path d="M 71 143v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,74,146)"/>
+      <path d="M 71 179v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,74,182)"/>
+      <path d="M 71 191v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,74,194)"/>
+      <rect x="71" y="197" width="6" height="6" transform="rotate(0,74,200)"/>
+      <rect x="71" y="203" width="6" height="6" transform="rotate(0,74,206)"/>
+      <path d="M 71 209v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,74,212)"/>
+      <rect x="71" y="233" width="6" height="6" transform="rotate(0,74,236)"/>
+      <path d="M 71 263v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,74,266)"/>
+      <path d="M 77 11v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,80,14)"/>
+      <rect x="77" y="17" width="6" height="6" transform="rotate(0,80,20)"/>
+      <rect x="77" y="23" width="6" height="6" transform="rotate(0,80,26)"/>
+      <rect x="77" y="29" width="6" height="6" transform="rotate(0,80,32)"/>
+      <rect x="77" y="35" width="6" height="6" transform="rotate(0,80,38)"/>
+      <rect x="77" y="41" width="6" height="6" transform="rotate(0,80,44)"/>
+      <path d="M 77 47v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,80,50)"/>
+      <path d="M 77 71v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,80,74)"/>
+      <path d="M 77 77v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,80,80)"/>
+      <path d="M 77 95v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,80,98)"/>
+      <rect x="77" y="107" width="6" height="6" transform="rotate(0,80,110)"/>
+      <path d="M 77 119v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,80,122)"/>
+      <rect x="77" y="131" width="6" height="6" transform="rotate(0,80,134)"/>
+      <path d="M 77 155v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,80,158)"/>
+      <path d="M 77 161v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,80,164)"/>
+      <rect x="77" y="197" width="6" height="6" transform="rotate(0,80,200)"/>
+      <path d="M 77 209v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,80,212)"/>
+      <path d="M 77 215v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,80,218)"/>
+      <path d="M 77 227v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,80,230)"/>
+      <rect x="77" y="233" width="6" height="6" transform="rotate(0,80,236)"/>
+      <path d="M 77 239v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,80,242)"/>
+      <path d="M 77 251v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,80,254)"/>
+      <circle cx="80" cy="272" r="3" transform="rotate(0,80,272)"/>
+      <path d="M 83 5v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,86,8)"/>
+      <rect x="83" y="11" width="6" height="6" transform="rotate(0,86,14)"/>
+      <rect x="83" y="17" width="6" height="6" transform="rotate(0,86,20)"/>
+      <rect x="83" y="23" width="6" height="6" transform="rotate(0,86,26)"/>
+      <rect x="83" y="29" width="6" height="6" transform="rotate(0,86,32)"/>
+      <path d="M 83 35v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,86,38)"/>
+      <path d="M 83 53v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,86,56)"/>
+      <rect x="83" y="59" width="6" height="6" transform="rotate(0,86,62)"/>
+      <path d="M 83 65v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,86,68)"/>
+      <path d="M 83 83v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,86,86)"/>
+      <path d="M 83 89v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,86,92)"/>
+      <rect x="83" y="107" width="6" height="6" transform="rotate(0,86,110)"/>
+      <path d="M 83 131v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,86,134)"/>
+      <path d="M 83 143v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,86,146)"/>
+      <path d="M 83 149v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,86,152)"/>
+      <rect x="83" y="161" width="6" height="6" transform="rotate(0,86,164)"/>
+      <path d="M 83 179v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,86,182)"/>
+      <path d="M 83 185v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,86,188)"/>
+      <path d="M 83 197v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,86,200)"/>
+      <path d="M 83 221v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,86,224)"/>
+      <rect x="83" y="227" width="6" height="6" transform="rotate(0,86,230)"/>
+      <rect x="83" y="233" width="6" height="6" transform="rotate(0,86,236)"/>
+      <path d="M 83 245v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,86,248)"/>
+      <rect x="83" y="251" width="6" height="6" transform="rotate(0,86,254)"/>
+      <path d="M 83 257v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,86,260)"/>
+      <rect x="89" y="5" width="6" height="6" transform="rotate(0,92,8)"/>
+      <rect x="89" y="11" width="6" height="6" transform="rotate(0,92,14)"/>
+      <path d="M 89 17v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,92,20)"/>
+      <rect x="89" y="29" width="6" height="6" transform="rotate(0,92,32)"/>
+      <path d="M 89 41v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,92,44)"/>
+      <rect x="89" y="47" width="6" height="6" transform="rotate(0,92,50)"/>
+      <rect x="89" y="53" width="6" height="6" transform="rotate(0,92,56)"/>
+      <rect x="89" y="59" width="6" height="6" transform="rotate(0,92,62)"/>
+      <rect x="89" y="65" width="6" height="6" transform="rotate(0,92,68)"/>
+      <path d="M 89 71v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,92,74)"/>
+      <path d="M 89 101v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,92,104)"/>
+      <rect x="89" y="107" width="6" height="6" transform="rotate(0,92,110)"/>
+      <rect x="89" y="113" width="6" height="6" transform="rotate(0,92,116)"/>
+      <path d="M 89 119v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,92,122)"/>
+      <path d="M 89 143v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,92,146)"/>
+      <rect x="89" y="149" width="6" height="6" transform="rotate(0,92,152)"/>
+      <path d="M 89 161v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,92,164)"/>
+      <rect x="89" y="167" width="6" height="6" transform="rotate(0,92,170)"/>
+      <rect x="89" y="173" width="6" height="6" transform="rotate(0,92,176)"/>
+      <rect x="89" y="179" width="6" height="6" transform="rotate(0,92,182)"/>
+      <path d="M 89 185v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,92,188)"/>
+      <circle cx="92" cy="206" r="3" transform="rotate(0,92,206)"/>
+      <circle cx="92" cy="218" r="3" transform="rotate(0,92,218)"/>
+      <rect x="89" y="227" width="6" height="6" transform="rotate(0,92,230)"/>
+      <path d="M 89 233v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,92,236)"/>
+      <path d="M 89 251v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,92,254)"/>
+      <path d="M 89 257v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,92,260)"/>
+      <path d="M 95 5v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,98,8)"/>
+      <path d="M 95 11v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,98,14)"/>
+      <path d="M 95 23v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,98,26)"/>
+      <rect x="95" y="29" width="6" height="6" transform="rotate(0,98,32)"/>
+      <path d="M 95 35v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,98,38)"/>
+      <rect x="95" y="53" width="6" height="6" transform="rotate(0,98,56)"/>
+      <circle cx="98" cy="86" r="3" transform="rotate(0,98,86)"/>
+      <path d="M 95 95v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,98,98)"/>
+      <rect x="95" y="101" width="6" height="6" transform="rotate(0,98,104)"/>
+      <path d="M 95 107v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,98,110)"/>
+      <rect x="95" y="149" width="6" height="6" transform="rotate(0,98,152)"/>
+      <path d="M 95 155v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,98,158)"/>
+      <rect x="95" y="179" width="6" height="6" transform="rotate(0,98,182)"/>
+      <path d="M 95 197v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,98,200)"/>
+      <path d="M 95 227v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,98,230)"/>
+      <path d="M 95 269v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,98,272)"/>
+      <circle cx="104" cy="20" r="3" transform="rotate(0,104,20)"/>
+      <circle cx="104" cy="44" r="3" transform="rotate(0,104,44)"/>
+      <rect x="101" y="53" width="6" height="6" transform="rotate(0,104,56)"/>
+      <path d="M 101 71v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,104,74)"/>
+      <path d="M 101 77v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,104,80)"/>
+      <path d="M 101 113v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,104,116)"/>
+      <path d="M 101 119v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,104,122)"/>
+      <path d="M 101 137v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,104,140)"/>
+      <rect x="101" y="143" width="6" height="6" transform="rotate(0,104,146)"/>
+      <rect x="101" y="149" width="6" height="6" transform="rotate(0,104,152)"/>
+      <circle cx="104" cy="170" r="3" transform="rotate(0,104,170)"/>
+      <rect x="101" y="179" width="6" height="6" transform="rotate(0,104,182)"/>
+      <path d="M 101 185v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,104,188)"/>
+      <rect x="101" y="197" width="6" height="6" transform="rotate(0,104,200)"/>
+      <circle cx="104" cy="212" r="3" transform="rotate(0,104,212)"/>
+      <path d="M 101 233v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,104,236)"/>
+      <circle cx="104" cy="254" r="3" transform="rotate(0,104,254)"/>
+      <path d="M 101 263v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,104,266)"/>
+      <path d="M 101 269v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,104,272)"/>
+      <path d="M 107 29v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,110,32)"/>
+      <path d="M 107 35v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,110,38)"/>
+      <path d="M 107 47v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,110,50)"/>
+      <rect x="107" y="53" width="6" height="6" transform="rotate(0,110,56)"/>
+      <path d="M 107 59v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,110,62)"/>
+      <path d="M 107 77v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,110,80)"/>
+      <circle cx="110" cy="98" r="3" transform="rotate(0,110,98)"/>
+      <path d="M 107 119v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,110,122)"/>
+      <circle cx="110" cy="134" r="3" transform="rotate(0,110,134)"/>
+      <path d="M 107 149v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,110,152)"/>
+      <path d="M 107 161v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,110,164)"/>
+      <rect x="107" y="179" width="6" height="6" transform="rotate(0,110,182)"/>
+      <rect x="107" y="185" width="6" height="6" transform="rotate(0,110,188)"/>
+      <rect x="107" y="191" width="6" height="6" transform="rotate(0,110,194)"/>
+      <rect x="107" y="197" width="6" height="6" transform="rotate(0,110,200)"/>
+      <path d="M 107 203v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,110,206)"/>
+      <path d="M 107 215v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,110,218)"/>
+      <rect x="107" y="221" width="6" height="6" transform="rotate(0,110,224)"/>
+      <rect x="107" y="227" width="6" height="6" transform="rotate(0,110,230)"/>
+      <rect x="107" y="233" width="6" height="6" transform="rotate(0,110,236)"/>
+      <rect x="107" y="239" width="6" height="6" transform="rotate(0,110,242)"/>
+      <path d="M 107 245v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,110,248)"/>
+      <path d="M 107 257v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,110,260)"/>
+      <rect x="107" y="263" width="6" height="6" transform="rotate(0,110,266)"/>
+      <path d="M 113 11v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,116,14)"/>
+      <rect x="113" y="17" width="6" height="6" transform="rotate(0,116,20)"/>
+      <path d="M 113 23v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,116,26)"/>
+      <rect x="113" y="35" width="6" height="6" transform="rotate(0,116,38)"/>
+      <rect x="113" y="41" width="6" height="6" transform="rotate(0,116,44)"/>
+      <path d="M 113 47v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,116,50)"/>
+      <path d="M 113 83v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,116,86)"/>
+      <path d="M 113 107v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,116,110)"/>
+      <path d="M 113 113v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,116,116)"/>
+      <path d="M 113 143v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,116,146)"/>
+      <rect x="113" y="161" width="6" height="6" transform="rotate(0,116,164)"/>
+      <rect x="113" y="167" width="6" height="6" transform="rotate(0,116,170)"/>
+      <rect x="113" y="173" width="6" height="6" transform="rotate(0,116,176)"/>
+      <rect x="113" y="179" width="6" height="6" transform="rotate(0,116,182)"/>
+      <path d="M 113 185v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,116,188)"/>
+      <rect x="113" y="197" width="6" height="6" transform="rotate(0,116,200)"/>
+      <rect x="113" y="203" width="6" height="6" transform="rotate(0,116,206)"/>
+      <path d="M 113 215v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,116,218)"/>
+      <path d="M 113 227v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,116,230)"/>
+      <path d="M 113 233v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,116,236)"/>
+      <path d="M 113 245v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,116,248)"/>
+      <rect x="113" y="251" width="6" height="6" transform="rotate(0,116,254)"/>
+      <rect x="113" y="257" width="6" height="6" transform="rotate(0,116,260)"/>
+      <rect x="113" y="263" width="6" height="6" transform="rotate(0,116,266)"/>
+      <circle cx="122" cy="8" r="3" transform="rotate(0,122,8)"/>
+      <rect x="119" y="35" width="6" height="6" transform="rotate(0,122,38)"/>
+      <circle cx="122" cy="62" r="3" transform="rotate(0,122,62)"/>
+      <path d="M 119 71v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,122,74)"/>
+      <rect x="119" y="77" width="6" height="6" transform="rotate(0,122,80)"/>
+      <rect x="119" y="83" width="6" height="6" transform="rotate(0,122,86)"/>
+      <rect x="119" y="89" width="6" height="6" transform="rotate(0,122,92)"/>
+      <path d="M 119 95v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,122,98)"/>
+      <rect x="119" y="113" width="6" height="6" transform="rotate(0,122,116)"/>
+      <rect x="119" y="143" width="6" height="6" transform="rotate(0,122,146)"/>
+      <path d="M 119 155v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,122,158)"/>
+      <rect x="119" y="161" width="6" height="6" transform="rotate(0,122,164)"/>
+      <rect x="119" y="167" width="6" height="6" transform="rotate(0,122,170)"/>
+      <rect x="119" y="173" width="6" height="6" transform="rotate(0,122,176)"/>
+      <rect x="119" y="179" width="6" height="6" transform="rotate(0,122,182)"/>
+      <rect x="119" y="197" width="6" height="6" transform="rotate(0,122,200)"/>
+      <rect x="119" y="203" width="6" height="6" transform="rotate(0,122,206)"/>
+      <path d="M 119 209v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,122,212)"/>
+      <rect x="119" y="263" width="6" height="6" transform="rotate(0,122,266)"/>
+      <path d="M 119 269v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,122,272)"/>
+      <circle cx="128" cy="14" r="3" transform="rotate(0,128,14)"/>
+      <path d="M 125 23v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,128,26)"/>
+      <rect x="125" y="29" width="6" height="6" transform="rotate(0,128,32)"/>
+      <rect x="125" y="35" width="6" height="6" transform="rotate(0,128,38)"/>
+      <rect x="125" y="41" width="6" height="6" transform="rotate(0,128,44)"/>
+      <rect x="125" y="47" width="6" height="6" transform="rotate(0,128,50)"/>
+      <path d="M 125 53v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,128,56)"/>
+      <path d="M 125 65v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,128,68)"/>
+      <rect x="125" y="71" width="6" height="6" transform="rotate(0,128,74)"/>
+      <rect x="125" y="89" width="6" height="6" transform="rotate(0,128,92)"/>
+      <path d="M 125 107v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,128,110)"/>
+      <rect x="125" y="113" width="6" height="6" transform="rotate(0,128,116)"/>
+      <path d="M 125 125v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,128,128)"/>
+      <rect x="125" y="131" width="6" height="6" transform="rotate(0,128,134)"/>
+      <rect x="125" y="137" width="6" height="6" transform="rotate(0,128,140)"/>
+      <rect x="125" y="143" width="6" height="6" transform="rotate(0,128,146)"/>
+      <rect x="125" y="149" width="6" height="6" transform="rotate(0,128,152)"/>
+      <path d="M 125 155v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,128,158)"/>
+      <path d="M 125 167v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,128,170)"/>
+      <rect x="125" y="173" width="6" height="6" transform="rotate(0,128,176)"/>
+      <rect x="125" y="179" width="6" height="6" transform="rotate(0,128,182)"/>
+      <rect x="125" y="197" width="6" height="6" transform="rotate(0,128,200)"/>
+      <path d="M 125 209v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,128,212)"/>
+      <path d="M 125 221v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,128,224)"/>
+      <rect x="125" y="227" width="6" height="6" transform="rotate(0,128,230)"/>
+      <rect x="125" y="233" width="6" height="6" transform="rotate(0,128,236)"/>
+      <rect x="125" y="239" width="6" height="6" transform="rotate(0,128,242)"/>
+      <path d="M 125 245v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,128,248)"/>
+      <path d="M 125 257v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,128,260)"/>
+      <rect x="125" y="263" width="6" height="6" transform="rotate(0,128,266)"/>
+      <path d="M 125 269v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,128,272)"/>
+      <circle cx="134" cy="8" r="3" transform="rotate(0,134,8)"/>
+      <path d="M 131 17v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,134,20)"/>
+      <rect x="131" y="23" width="6" height="6" transform="rotate(0,134,26)"/>
+      <rect x="131" y="29" width="6" height="6" transform="rotate(0,134,32)"/>
+      <rect x="131" y="53" width="6" height="6" transform="rotate(0,134,56)"/>
+      <rect x="131" y="59" width="6" height="6" transform="rotate(0,134,62)"/>
+      <rect x="131" y="65" width="6" height="6" transform="rotate(0,134,68)"/>
+      <rect x="131" y="71" width="6" height="6" transform="rotate(0,134,74)"/>
+      <rect x="131" y="77" width="6" height="6" transform="rotate(0,134,80)"/>
+      <rect x="131" y="83" width="6" height="6" transform="rotate(0,134,86)"/>
+      <rect x="131" y="89" width="6" height="6" transform="rotate(0,134,92)"/>
+      <path d="M 131 101v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,134,104)"/>
+      <path d="M 131 113v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,134,116)"/>
+      <rect x="131" y="119" width="6" height="6" transform="rotate(0,134,122)"/>
+      <rect x="131" y="125" width="6" height="6" transform="rotate(0,134,128)"/>
+      <rect x="131" y="149" width="6" height="6" transform="rotate(0,134,152)"/>
+      <path d="M 131 173v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,134,176)"/>
+      <rect x="131" y="179" width="6" height="6" transform="rotate(0,134,182)"/>
+      <rect x="131" y="185" width="6" height="6" transform="rotate(0,134,188)"/>
+      <rect x="131" y="191" width="6" height="6" transform="rotate(0,134,194)"/>
+      <rect x="131" y="197" width="6" height="6" transform="rotate(0,134,200)"/>
+      <path d="M 131 203v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,134,206)"/>
+      <path d="M 131 215v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,134,218)"/>
+      <rect x="131" y="221" width="6" height="6" transform="rotate(0,134,224)"/>
+      <rect x="131" y="245" width="6" height="6" transform="rotate(0,134,248)"/>
+      <path d="M 131 251v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,134,254)"/>
+      <path d="M 137 11v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,140,14)"/>
+      <rect x="137" y="17" width="6" height="6" transform="rotate(0,140,20)"/>
+      <rect x="137" y="23" width="6" height="6" transform="rotate(0,140,26)"/>
+      <rect x="137" y="29" width="6" height="6" transform="rotate(0,140,32)"/>
+      <circle cx="140" cy="44" r="3" transform="rotate(0,140,44)"/>
+      <rect x="137" y="53" width="6" height="6" transform="rotate(0,140,56)"/>
+      <rect x="137" y="83" width="6" height="6" transform="rotate(0,140,86)"/>
+      <rect x="137" y="89" width="6" height="6" transform="rotate(0,140,92)"/>
+      <rect x="137" y="95" width="6" height="6" transform="rotate(0,140,98)"/>
+      <rect x="137" y="101" width="6" height="6" transform="rotate(0,140,104)"/>
+      <path d="M 137 107v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,140,110)"/>
+      <rect x="137" y="125" width="6" height="6" transform="rotate(0,140,128)"/>
+      <circle cx="140" cy="140" r="3" transform="rotate(0,140,140)"/>
+      <rect x="137" y="149" width="6" height="6" transform="rotate(0,140,152)"/>
+      <rect x="137" y="179" width="6" height="6" transform="rotate(0,140,182)"/>
+      <rect x="137" y="185" width="6" height="6" transform="rotate(0,140,188)"/>
+      <rect x="137" y="191" width="6" height="6" transform="rotate(0,140,194)"/>
+      <rect x="137" y="197" width="6" height="6" transform="rotate(0,140,200)"/>
+      <path d="M 137 203v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,140,206)"/>
+      <rect x="137" y="221" width="6" height="6" transform="rotate(0,140,224)"/>
+      <circle cx="140" cy="236" r="3" transform="rotate(0,140,236)"/>
+      <rect x="137" y="245" width="6" height="6" transform="rotate(0,140,248)"/>
+      <path d="M 137 251v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,140,254)"/>
+      <path d="M 143 5v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,146,8)"/>
+      <path d="M 143 17v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,146,20)"/>
+      <rect x="143" y="23" width="6" height="6" transform="rotate(0,146,26)"/>
+      <rect x="143" y="29" width="6" height="6" transform="rotate(0,146,32)"/>
+      <rect x="143" y="53" width="6" height="6" transform="rotate(0,146,56)"/>
+      <path d="M 143 65v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,146,68)"/>
+      <rect x="143" y="83" width="6" height="6" transform="rotate(0,146,86)"/>
+      <rect x="143" y="89" width="6" height="6" transform="rotate(0,146,92)"/>
+      <path d="M 143 95v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,146,98)"/>
+      <circle cx="146" cy="116" r="3" transform="rotate(0,146,116)"/>
+      <rect x="143" y="125" width="6" height="6" transform="rotate(0,146,128)"/>
+      <rect x="143" y="149" width="6" height="6" transform="rotate(0,146,152)"/>
+      <rect x="143" y="155" width="6" height="6" transform="rotate(0,146,158)"/>
+      <path d="M 143 161v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,146,164)"/>
+      <path d="M 143 179v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,146,182)"/>
+      <path d="M 143 185v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,146,188)"/>
+      <rect x="143" y="197" width="6" height="6" transform="rotate(0,146,200)"/>
+      <path d="M 143 209v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,146,212)"/>
+      <rect x="143" y="215" width="6" height="6" transform="rotate(0,146,218)"/>
+      <rect x="143" y="221" width="6" height="6" transform="rotate(0,146,224)"/>
+      <rect x="143" y="245" width="6" height="6" transform="rotate(0,146,248)"/>
+      <path d="M 143 269v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,146,272)"/>
+      <rect x="149" y="5" width="6" height="6" transform="rotate(0,152,8)"/>
+      <path d="M 149 23v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,152,26)"/>
+      <rect x="149" y="29" width="6" height="6" transform="rotate(0,152,32)"/>
+      <rect x="149" y="35" width="6" height="6" transform="rotate(0,152,38)"/>
+      <rect x="149" y="41" width="6" height="6" transform="rotate(0,152,44)"/>
+      <rect x="149" y="47" width="6" height="6" transform="rotate(0,152,50)"/>
+      <rect x="149" y="53" width="6" height="6" transform="rotate(0,152,56)"/>
+      <path d="M 149 65v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,152,68)"/>
+      <path d="M 149 83v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,152,86)"/>
+      <rect x="149" y="125" width="6" height="6" transform="rotate(0,152,128)"/>
+      <rect x="149" y="131" width="6" height="6" transform="rotate(0,152,134)"/>
+      <rect x="149" y="137" width="6" height="6" transform="rotate(0,152,140)"/>
+      <rect x="149" y="143" width="6" height="6" transform="rotate(0,152,146)"/>
+      <path d="M 149 149v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,152,152)"/>
+      <path d="M 149 161v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,152,164)"/>
+      <path d="M 149 167v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,152,170)"/>
+      <path d="M 149 197v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,152,200)"/>
+      <path d="M 149 215v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,152,218)"/>
+      <rect x="149" y="221" width="6" height="6" transform="rotate(0,152,224)"/>
+      <rect x="149" y="227" width="6" height="6" transform="rotate(0,152,230)"/>
+      <rect x="149" y="233" width="6" height="6" transform="rotate(0,152,236)"/>
+      <rect x="149" y="239" width="6" height="6" transform="rotate(0,152,242)"/>
+      <path d="M 149 245v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,152,248)"/>
+      <path d="M 149 269v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,152,272)"/>
+      <path d="M 155 5v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,158,8)"/>
+      <rect x="155" y="53" width="6" height="6" transform="rotate(0,158,56)"/>
+      <path d="M 155 59v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,158,62)"/>
+      <path d="M 155 71v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,158,74)"/>
+      <path d="M 155 77v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,158,80)"/>
+      <path d="M 155 95v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,158,98)"/>
+      <path d="M 155 107v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,158,110)"/>
+      <path d="M 155 119v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,158,122)"/>
+      <rect x="155" y="125" width="6" height="6" transform="rotate(0,158,128)"/>
+      <path d="M 155 143v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,158,146)"/>
+      <path d="M 155 155v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,158,158)"/>
+      <path d="M 155 173v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,158,176)"/>
+      <rect x="155" y="179" width="6" height="6" transform="rotate(0,158,182)"/>
+      <rect x="155" y="185" width="6" height="6" transform="rotate(0,158,188)"/>
+      <path d="M 155 191v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,158,194)"/>
+      <path d="M 155 203v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,158,206)"/>
+      <path d="M 155 227v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,158,230)"/>
+      <path d="M 155 239v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,158,242)"/>
+      <circle cx="158" cy="260" r="3" transform="rotate(0,158,260)"/>
+      <circle cx="164" cy="14" r="3" transform="rotate(0,164,14)"/>
+      <path d="M 161 23v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,164,26)"/>
+      <path d="M 161 29v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,164,32)"/>
+      <circle cx="164" cy="44" r="3" transform="rotate(0,164,44)"/>
+      <path d="M 161 53v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,164,56)"/>
+      <rect x="161" y="71" width="6" height="6" transform="rotate(0,164,74)"/>
+      <rect x="161" y="77" width="6" height="6" transform="rotate(0,164,80)"/>
+      <path d="M 161 89v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,164,92)"/>
+      <rect x="161" y="95" width="6" height="6" transform="rotate(0,164,98)"/>
+      <rect x="161" y="101" width="6" height="6" transform="rotate(0,164,104)"/>
+      <rect x="161" y="107" width="6" height="6" transform="rotate(0,164,110)"/>
+      <path d="M 161 125v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,164,128)"/>
+      <rect x="161" y="131" width="6" height="6" transform="rotate(0,164,134)"/>
+      <path d="M 161 137v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,164,140)"/>
+      <path d="M 161 155v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,164,158)"/>
+      <rect x="161" y="161" width="6" height="6" transform="rotate(0,164,164)"/>
+      <path d="M 161 167v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,164,170)"/>
+      <path d="M 161 179v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,164,182)"/>
+      <rect x="161" y="185" width="6" height="6" transform="rotate(0,164,188)"/>
+      <rect x="161" y="191" width="6" height="6" transform="rotate(0,164,194)"/>
+      <rect x="161" y="197" width="6" height="6" transform="rotate(0,164,200)"/>
+      <path d="M 161 203v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,164,206)"/>
+      <path d="M 161 215v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,164,218)"/>
+      <path d="M 161 221v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,164,224)"/>
+      <path d="M 161 263v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,164,266)"/>
+      <path d="M 167 5v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,170,8)"/>
+      <rect x="167" y="23" width="6" height="6" transform="rotate(0,170,26)"/>
+      <path d="M 167 47v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,170,50)"/>
+      <path d="M 167 71v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,170,74)"/>
+      <rect x="167" y="77" width="6" height="6" transform="rotate(0,170,80)"/>
+      <rect x="167" y="107" width="6" height="6" transform="rotate(0,170,110)"/>
+      <path d="M 167 113v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,170,116)"/>
+      <path d="M 167 137v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,170,140)"/>
+      <rect x="167" y="161" width="6" height="6" transform="rotate(0,170,164)"/>
+      <rect x="167" y="167" width="6" height="6" transform="rotate(0,170,170)"/>
+      <rect x="167" y="197" width="6" height="6" transform="rotate(0,170,200)"/>
+      <circle cx="170" cy="212" r="3" transform="rotate(0,170,212)"/>
+      <path d="M 167 227v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,170,230)"/>
+      <path d="M 167 233v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,170,236)"/>
+      <path d="M 167 245v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,170,248)"/>
+      <path d="M 167 263v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,170,266)"/>
+      <rect x="173" y="5" width="6" height="6" transform="rotate(0,176,8)"/>
+      <rect x="173" y="11" width="6" height="6" transform="rotate(0,176,14)"/>
+      <rect x="173" y="17" width="6" height="6" transform="rotate(0,176,20)"/>
+      <rect x="173" y="23" width="6" height="6" transform="rotate(0,176,26)"/>
+      <path d="M 173 29v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,176,32)"/>
+      <path d="M 173 41v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,176,44)"/>
+      <rect x="173" y="47" width="6" height="6" transform="rotate(0,176,50)"/>
+      <rect x="173" y="53" width="6" height="6" transform="rotate(0,176,56)"/>
+      <rect x="173" y="59" width="6" height="6" transform="rotate(0,176,62)"/>
+      <path d="M 173 65v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,176,68)"/>
+      <rect x="173" y="77" width="6" height="6" transform="rotate(0,176,80)"/>
+      <path d="M 173 89v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,176,92)"/>
+      <path d="M 173 95v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,176,98)"/>
+      <path d="M 173 107v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,176,110)"/>
+      <rect x="173" y="113" width="6" height="6" transform="rotate(0,176,116)"/>
+      <path d="M 173 143v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,176,146)"/>
+      <rect x="173" y="149" width="6" height="6" transform="rotate(0,176,152)"/>
+      <rect x="173" y="155" width="6" height="6" transform="rotate(0,176,158)"/>
+      <rect x="173" y="161" width="6" height="6" transform="rotate(0,176,164)"/>
+      <rect x="173" y="167" width="6" height="6" transform="rotate(0,176,170)"/>
+      <path d="M 173 179v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,176,182)"/>
+      <path d="M 173 197v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,176,200)"/>
+      <path d="M 173 203v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,176,206)"/>
+      <rect x="173" y="227" width="6" height="6" transform="rotate(0,176,230)"/>
+      <rect x="173" y="233" width="6" height="6" transform="rotate(0,176,236)"/>
+      <rect x="173" y="239" width="6" height="6" transform="rotate(0,176,242)"/>
+      <path d="M 173 245v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,176,248)"/>
+      <path d="M 179 5v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,182,8)"/>
+      <rect x="179" y="11" width="6" height="6" transform="rotate(0,182,14)"/>
+      <path d="M 179 23v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,182,26)"/>
+      <path d="M 179 29v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,182,32)"/>
+      <path d="M 179 59v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,182,62)"/>
+      <rect x="179" y="65" width="6" height="6" transform="rotate(0,182,68)"/>
+      <rect x="179" y="77" width="6" height="6" transform="rotate(0,182,80)"/>
+      <path d="M 179 95v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,182,98)"/>
+      <path d="M 179 101v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,182,104)"/>
+      <rect x="179" y="113" width="6" height="6" transform="rotate(0,182,116)"/>
+      <rect x="179" y="119" width="6" height="6" transform="rotate(0,182,122)"/>
+      <rect x="179" y="125" width="6" height="6" transform="rotate(0,182,128)"/>
+      <path d="M 179 131v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,182,134)"/>
+      <rect x="179" y="143" width="6" height="6" transform="rotate(0,182,146)"/>
+      <rect x="179" y="149" width="6" height="6" transform="rotate(0,182,152)"/>
+      <path d="M 179 155v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,182,158)"/>
+      <path d="M 179 167v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,182,170)"/>
+      <rect x="179" y="173" width="6" height="6" transform="rotate(0,182,176)"/>
+      <rect x="179" y="179" width="6" height="6" transform="rotate(0,182,182)"/>
+      <path d="M 179 185v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,182,188)"/>
+      <rect x="179" y="203" width="6" height="6" transform="rotate(0,182,206)"/>
+      <path d="M 179 221v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,182,224)"/>
+      <rect x="179" y="227" width="6" height="6" transform="rotate(0,182,230)"/>
+      <path d="M 179 233v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,182,236)"/>
+      <path d="M 179 251v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,182,254)"/>
+      <rect x="185" y="11" width="6" height="6" transform="rotate(0,188,14)"/>
+      <path d="M 185 17v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,188,20)"/>
+      <path d="M 185 41v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,188,44)"/>
+      <rect x="185" y="47" width="6" height="6" transform="rotate(0,188,50)"/>
+      <path d="M 185 53v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,188,56)"/>
+      <rect x="185" y="65" width="6" height="6" transform="rotate(0,188,68)"/>
+      <path d="M 185 77v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,188,80)"/>
+      <rect x="185" y="83" width="6" height="6" transform="rotate(0,188,86)"/>
+      <path d="M 185 89v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,188,92)"/>
+      <path d="M 185 113v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,188,116)"/>
+      <rect x="185" y="125" width="6" height="6" transform="rotate(0,188,128)"/>
+      <path d="M 185 137v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,188,140)"/>
+      <rect x="185" y="143" width="6" height="6" transform="rotate(0,188,146)"/>
+      <path d="M 185 149v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,188,152)"/>
+      <circle cx="188" cy="164" r="3" transform="rotate(0,188,164)"/>
+      <path d="M 185 173v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,188,176)"/>
+      <path d="M 185 185v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,188,188)"/>
+      <path d="M 185 203v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,188,206)"/>
+      <circle cx="188" cy="218" r="3" transform="rotate(0,188,218)"/>
+      <path d="M 185 227v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,188,230)"/>
+      <path d="M 185 239v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,188,242)"/>
+      <rect x="185" y="245" width="6" height="6" transform="rotate(0,188,248)"/>
+      <path d="M 185 251v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,188,254)"/>
+      <path d="M 185 263v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,188,266)"/>
+      <path d="M 191 5v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,194,8)"/>
+      <path d="M 191 11v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,194,14)"/>
+      <path d="M 191 23v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,194,26)"/>
+      <rect x="191" y="65" width="6" height="6" transform="rotate(0,194,68)"/>
+      <path d="M 191 83v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,194,86)"/>
+      <path d="M 191 89v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,194,92)"/>
+      <path d="M 191 119v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,194,122)"/>
+      <rect x="191" y="125" width="6" height="6" transform="rotate(0,194,128)"/>
+      <rect x="191" y="137" width="6" height="6" transform="rotate(0,194,140)"/>
+      <path d="M 191 197v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,194,200)"/>
+      <circle cx="194" cy="212" r="3" transform="rotate(0,194,212)"/>
+      <circle cx="194" cy="224" r="3" transform="rotate(0,194,224)"/>
+      <path d="M 191 233v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,194,236)"/>
+      <rect x="191" y="263" width="6" height="6" transform="rotate(0,194,266)"/>
+      <rect x="197" y="23" width="6" height="6" transform="rotate(0,200,26)"/>
+      <circle cx="200" cy="44" r="3" transform="rotate(0,200,44)"/>
+      <path d="M 197 53v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,200,56)"/>
+      <path d="M 197 65v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,200,68)"/>
+      <path d="M 197 77v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,200,80)"/>
+      <circle cx="200" cy="98" r="3" transform="rotate(0,200,98)"/>
+      <path d="M 197 107v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,200,110)"/>
+      <rect x="197" y="113" width="6" height="6" transform="rotate(0,200,116)"/>
+      <rect x="197" y="119" width="6" height="6" transform="rotate(0,200,122)"/>
+      <rect x="197" y="125" width="6" height="6" transform="rotate(0,200,128)"/>
+      <rect x="197" y="131" width="6" height="6" transform="rotate(0,200,134)"/>
+      <rect x="197" y="137" width="6" height="6" transform="rotate(0,200,140)"/>
+      <rect x="197" y="143" width="6" height="6" transform="rotate(0,200,146)"/>
+      <path d="M 197 149v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,200,152)"/>
+      <path d="M 197 197v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,200,200)"/>
+      <path d="M 197 227v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,200,230)"/>
+      <rect x="197" y="233" width="6" height="6" transform="rotate(0,200,236)"/>
+      <rect x="197" y="239" width="6" height="6" transform="rotate(0,200,242)"/>
+      <path d="M 197 245v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,200,248)"/>
+      <path d="M 197 263v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,200,266)"/>
+      <path d="M 197 269v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,200,272)"/>
+      <circle cx="206" cy="14" r="3" transform="rotate(0,206,14)"/>
+      <path d="M 203 23v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,206,26)"/>
+      <path d="M 203 29v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,206,32)"/>
+      <rect x="203" y="53" width="6" height="6" transform="rotate(0,206,56)"/>
+      <rect x="203" y="77" width="6" height="6" transform="rotate(0,206,80)"/>
+      <path d="M 203 113v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,206,116)"/>
+      <rect x="203" y="125" width="6" height="6" transform="rotate(0,206,128)"/>
+      <path d="M 203 131v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,206,134)"/>
+      <path d="M 203 155v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,206,158)"/>
+      <path d="M 203 173v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,206,176)"/>
+      <rect x="203" y="179" width="6" height="6" transform="rotate(0,206,182)"/>
+      <path d="M 203 185v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,206,188)"/>
+      <path d="M 203 215v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,206,218)"/>
+      <rect x="203" y="221" width="6" height="6" transform="rotate(0,206,224)"/>
+      <rect x="203" y="227" width="6" height="6" transform="rotate(0,206,230)"/>
+      <path d="M 203 233v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,206,236)"/>
+      <rect x="209" y="29" width="6" height="6" transform="rotate(0,212,32)"/>
+      <circle cx="212" cy="44" r="3" transform="rotate(0,212,44)"/>
+      <path d="M 209 53v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,212,56)"/>
+      <path d="M 209 59v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,212,62)"/>
+      <rect x="209" y="77" width="6" height="6" transform="rotate(0,212,80)"/>
+      <path d="M 209 125v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,212,128)"/>
+      <path d="M 209 149v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,212,152)"/>
+      <path d="M 209 155v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,212,158)"/>
+      <path d="M 209 167v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,212,170)"/>
+      <path d="M 209 173v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,212,176)"/>
+      <rect x="209" y="185" width="6" height="6" transform="rotate(0,212,188)"/>
+      <path d="M 209 215v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,212,218)"/>
+      <rect x="209" y="227" width="6" height="6" transform="rotate(0,212,230)"/>
+      <path d="M 209 239v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,212,242)"/>
+      <path d="M 209 251v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,212,254)"/>
+      <rect x="209" y="257" width="6" height="6" transform="rotate(0,212,260)"/>
+      <path d="M 209 263v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,212,266)"/>
+      <path d="M 215 11v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,218,14)"/>
+      <rect x="215" y="17" width="6" height="6" transform="rotate(0,218,20)"/>
+      <rect x="215" y="23" width="6" height="6" transform="rotate(0,218,26)"/>
+      <rect x="215" y="29" width="6" height="6" transform="rotate(0,218,32)"/>
+      <rect x="215" y="59" width="6" height="6" transform="rotate(0,218,62)"/>
+      <rect x="215" y="77" width="6" height="6" transform="rotate(0,218,80)"/>
+      <path d="M 215 95v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,218,98)"/>
+      <rect x="215" y="101" width="6" height="6" transform="rotate(0,218,104)"/>
+      <rect x="215" y="107" width="6" height="6" transform="rotate(0,218,110)"/>
+      <path d="M 215 113v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,218,116)"/>
+      <path d="M 215 137v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,218,140)"/>
+      <rect x="215" y="143" width="6" height="6" transform="rotate(0,218,146)"/>
+      <rect x="215" y="149" width="6" height="6" transform="rotate(0,218,152)"/>
+      <circle cx="218" cy="164" r="3" transform="rotate(0,218,164)"/>
+      <rect x="215" y="185" width="6" height="6" transform="rotate(0,218,188)"/>
+      <path d="M 215 197v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,218,200)"/>
+      <path d="M 215 221v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,218,224)"/>
+      <rect x="215" y="227" width="6" height="6" transform="rotate(0,218,230)"/>
+      <rect x="215" y="233" width="6" height="6" transform="rotate(0,218,236)"/>
+      <rect x="215" y="239" width="6" height="6" transform="rotate(0,218,242)"/>
+      <rect x="215" y="251" width="6" height="6" transform="rotate(0,218,254)"/>
+      <circle cx="224" cy="8" r="3" transform="rotate(0,224,8)"/>
+      <path d="M 221 23v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,224,26)"/>
+      <path d="M 221 29v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,224,32)"/>
+      <circle cx="224" cy="44" r="3" transform="rotate(0,224,44)"/>
+      <path d="M 221 53v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,224,56)"/>
+      <rect x="221" y="59" width="6" height="6" transform="rotate(0,224,62)"/>
+      <path d="M 221 77v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,224,80)"/>
+      <path d="M 221 89v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,224,92)"/>
+      <path d="M 221 125v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,224,128)"/>
+      <rect x="221" y="131" width="6" height="6" transform="rotate(0,224,134)"/>
+      <rect x="221" y="137" width="6" height="6" transform="rotate(0,224,140)"/>
+      <rect x="221" y="143" width="6" height="6" transform="rotate(0,224,146)"/>
+      <rect x="221" y="149" width="6" height="6" transform="rotate(0,224,152)"/>
+      <path d="M 221 167v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,224,170)"/>
+      <rect x="221" y="185" width="6" height="6" transform="rotate(0,224,188)"/>
+      <rect x="221" y="197" width="6" height="6" transform="rotate(0,224,200)"/>
+      <circle cx="224" cy="212" r="3" transform="rotate(0,224,212)"/>
+      <rect x="221" y="221" width="6" height="6" transform="rotate(0,224,224)"/>
+      <rect x="221" y="227" width="6" height="6" transform="rotate(0,224,230)"/>
+      <rect x="221" y="233" width="6" height="6" transform="rotate(0,224,236)"/>
+      <rect x="221" y="239" width="6" height="6" transform="rotate(0,224,242)"/>
+      <rect x="221" y="245" width="6" height="6" transform="rotate(0,224,248)"/>
+      <path d="M 221 251v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,224,254)"/>
+      <path d="M 221 263v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,224,266)"/>
+      <path d="M 227 53v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,230,56)"/>
+      <rect x="227" y="59" width="6" height="6" transform="rotate(0,230,62)"/>
+      <circle cx="230" cy="74" r="3" transform="rotate(0,230,74)"/>
+      <rect x="227" y="89" width="6" height="6" transform="rotate(0,230,92)"/>
+      <rect x="227" y="95" width="6" height="6" transform="rotate(0,230,98)"/>
+      <rect x="227" y="101" width="6" height="6" transform="rotate(0,230,104)"/>
+      <path d="M 227 107v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,230,110)"/>
+      <path d="M 227 119v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,230,122)"/>
+      <rect x="227" y="125" width="6" height="6" transform="rotate(0,230,128)"/>
+      <rect x="227" y="149" width="6" height="6" transform="rotate(0,230,152)"/>
+      <rect x="227" y="155" width="6" height="6" transform="rotate(0,230,158)"/>
+      <rect x="227" y="161" width="6" height="6" transform="rotate(0,230,164)"/>
+      <rect x="227" y="167" width="6" height="6" transform="rotate(0,230,170)"/>
+      <path d="M 227 173v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,230,176)"/>
+      <rect x="227" y="185" width="6" height="6" transform="rotate(0,230,188)"/>
+      <rect x="227" y="191" width="6" height="6" transform="rotate(0,230,194)"/>
+      <rect x="227" y="197" width="6" height="6" transform="rotate(0,230,200)"/>
+      <path d="M 227 203v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,230,206)"/>
+      <rect x="227" y="221" width="6" height="6" transform="rotate(0,230,224)"/>
+      <rect x="227" y="245" width="6" height="6" transform="rotate(0,230,248)"/>
+      <path d="M 227 257v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,230,260)"/>
+      <rect x="227" y="263" width="6" height="6" transform="rotate(0,230,266)"/>
+      <path d="M 233 59v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,236,62)"/>
+      <path d="M 233 77v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,236,80)"/>
+      <rect x="233" y="89" width="6" height="6" transform="rotate(0,236,92)"/>
+      <rect x="233" y="95" width="6" height="6" transform="rotate(0,236,98)"/>
+      <rect x="233" y="101" width="6" height="6" transform="rotate(0,236,104)"/>
+      <rect x="233" y="107" width="6" height="6" transform="rotate(0,236,110)"/>
+      <path d="M 233 113v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,236,116)"/>
+      <rect x="233" y="125" width="6" height="6" transform="rotate(0,236,128)"/>
+      <circle cx="236" cy="140" r="3" transform="rotate(0,236,140)"/>
+      <rect x="233" y="149" width="6" height="6" transform="rotate(0,236,152)"/>
+      <rect x="233" y="155" width="6" height="6" transform="rotate(0,236,158)"/>
+      <rect x="233" y="161" width="6" height="6" transform="rotate(0,236,164)"/>
+      <rect x="233" y="167" width="6" height="6" transform="rotate(0,236,170)"/>
+      <path d="M 233 173v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,236,176)"/>
+      <path d="M 233 185v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,236,188)"/>
+      <rect x="233" y="191" width="6" height="6" transform="rotate(0,236,194)"/>
+      <rect x="233" y="203" width="6" height="6" transform="rotate(0,236,206)"/>
+      <path d="M 233 215v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,236,218)"/>
+      <rect x="233" y="221" width="6" height="6" transform="rotate(0,236,224)"/>
+      <circle cx="236" cy="236" r="3" transform="rotate(0,236,236)"/>
+      <rect x="233" y="245" width="6" height="6" transform="rotate(0,236,248)"/>
+      <path d="M 233 251v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,236,254)"/>
+      <rect x="233" y="263" width="6" height="6" transform="rotate(0,236,266)"/>
+      <rect x="239" y="77" width="6" height="6" transform="rotate(0,242,80)"/>
+      <path d="M 239 89v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,242,92)"/>
+      <rect x="239" y="101" width="6" height="6" transform="rotate(0,242,104)"/>
+      <rect x="239" y="107" width="6" height="6" transform="rotate(0,242,110)"/>
+      <path d="M 239 113v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,242,116)"/>
+      <rect x="239" y="125" width="6" height="6" transform="rotate(0,242,128)"/>
+      <rect x="239" y="149" width="6" height="6" transform="rotate(0,242,152)"/>
+      <path d="M 239 179v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,242,182)"/>
+      <rect x="239" y="191" width="6" height="6" transform="rotate(0,242,194)"/>
+      <rect x="239" y="197" width="6" height="6" transform="rotate(0,242,200)"/>
+      <rect x="239" y="203" width="6" height="6" transform="rotate(0,242,206)"/>
+      <path d="M 239 215v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,242,218)"/>
+      <rect x="239" y="221" width="6" height="6" transform="rotate(0,242,224)"/>
+      <rect x="239" y="245" width="6" height="6" transform="rotate(0,242,248)"/>
+      <rect x="239" y="251" width="6" height="6" transform="rotate(0,242,254)"/>
+      <path d="M 239 263v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,242,266)"/>
+      <circle cx="248" cy="56" r="3" transform="rotate(0,248,56)"/>
+      <rect x="245" y="77" width="6" height="6" transform="rotate(0,248,80)"/>
+      <rect x="245" y="101" width="6" height="6" transform="rotate(0,248,104)"/>
+      <path d="M 245 107v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,248,110)"/>
+      <path d="M 245 119v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,248,122)"/>
+      <rect x="245" y="125" width="6" height="6" transform="rotate(0,248,128)"/>
+      <rect x="245" y="131" width="6" height="6" transform="rotate(0,248,134)"/>
+      <rect x="245" y="137" width="6" height="6" transform="rotate(0,248,140)"/>
+      <rect x="245" y="143" width="6" height="6" transform="rotate(0,248,146)"/>
+      <rect x="245" y="149" width="6" height="6" transform="rotate(0,248,152)"/>
+      <path d="M 245 155v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(180,248,158)"/>
+      <circle cx="248" cy="170" r="3" transform="rotate(0,248,170)"/>
+      <rect x="245" y="179" width="6" height="6" transform="rotate(0,248,182)"/>
+      <rect x="245" y="191" width="6" height="6" transform="rotate(0,248,194)"/>
+      <rect x="245" y="197" width="6" height="6" transform="rotate(0,248,200)"/>
+      <rect x="245" y="203" width="6" height="6" transform="rotate(0,248,206)"/>
+      <path d="M 245 221v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,248,224)"/>
+      <rect x="245" y="227" width="6" height="6" transform="rotate(0,248,230)"/>
+      <rect x="245" y="233" width="6" height="6" transform="rotate(0,248,236)"/>
+      <rect x="245" y="239" width="6" height="6" transform="rotate(0,248,242)"/>
+      <rect x="245" y="245" width="6" height="6" transform="rotate(0,248,248)"/>
+      <path d="M 245 251v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,248,254)"/>
+      <path d="M 245 269v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,248,272)"/>
+      <path d="M 251 59v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,254,62)"/>
+      <rect x="251" y="65" width="6" height="6" transform="rotate(0,254,68)"/>
+      <rect x="251" y="71" width="6" height="6" transform="rotate(0,254,74)"/>
+      <rect x="251" y="77" width="6" height="6" transform="rotate(0,254,80)"/>
+      <path d="M 251 83v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,254,86)"/>
+      <rect x="251" y="101" width="6" height="6" transform="rotate(0,254,104)"/>
+      <circle cx="254" cy="116" r="3" transform="rotate(0,254,116)"/>
+      <rect x="251" y="131" width="6" height="6" transform="rotate(0,254,134)"/>
+      <path d="M 251 143v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,254,146)"/>
+      <rect x="251" y="155" width="6" height="6" transform="rotate(0,254,158)"/>
+      <path d="M 251 161v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,254,164)"/>
+      <path d="M 251 173v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,254,176)"/>
+      <rect x="251" y="179" width="6" height="6" transform="rotate(0,254,182)"/>
+      <rect x="251" y="185" width="6" height="6" transform="rotate(0,254,188)"/>
+      <path d="M 251 191v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,254,194)"/>
+      <rect x="251" y="203" width="6" height="6" transform="rotate(0,254,206)"/>
+      <path d="M 251 215v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(180,254,218)"/>
+      <path d="M 251 227v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,254,230)"/>
+      <rect x="251" y="245" width="6" height="6" transform="rotate(0,254,248)"/>
+      <circle cx="254" cy="260" r="3" transform="rotate(0,254,260)"/>
+      <path d="M 251 269v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,254,272)"/>
+      <path d="M 257 59v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,260,62)"/>
+      <rect x="257" y="65" width="6" height="6" transform="rotate(0,260,68)"/>
+      <rect x="257" y="71" width="6" height="6" transform="rotate(0,260,74)"/>
+      <rect x="257" y="77" width="6" height="6" transform="rotate(0,260,80)"/>
+      <path d="M 257 95v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,260,98)"/>
+      <rect x="257" y="101" width="6" height="6" transform="rotate(0,260,104)"/>
+      <path d="M 257 119v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,260,122)"/>
+      <rect x="257" y="125" width="6" height="6" transform="rotate(0,260,128)"/>
+      <rect x="257" y="131" width="6" height="6" transform="rotate(0,260,134)"/>
+      <path d="M 257 155v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,260,158)"/>
+      <rect x="257" y="185" width="6" height="6" transform="rotate(0,260,188)"/>
+      <path d="M 257 197v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,260,200)"/>
+      <path d="M 257 203v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,260,206)"/>
+      <path d="M 257 215v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,260,218)"/>
+      <rect x="257" y="245" width="6" height="6" transform="rotate(0,260,248)"/>
+      <path d="M 257 251v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,260,254)"/>
+      <circle cx="260" cy="266" r="3" transform="rotate(0,260,266)"/>
+      <circle cx="266" cy="56" r="3" transform="rotate(0,266,56)"/>
+      <rect x="263" y="65" width="6" height="6" transform="rotate(0,266,68)"/>
+      <rect x="263" y="71" width="6" height="6" transform="rotate(0,266,74)"/>
+      <path d="M 263 77v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,266,80)"/>
+      <path d="M 263 95v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(0,266,98)"/>
+      <rect x="263" y="101" width="6" height="6" transform="rotate(0,266,104)"/>
+      <rect x="263" y="107" width="6" height="6" transform="rotate(0,266,110)"/>
+      <path d="M 263 113v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,266,116)"/>
+      <rect x="263" y="125" width="6" height="6" transform="rotate(0,266,128)"/>
+      <rect x="263" y="131" width="6" height="6" transform="rotate(0,266,134)"/>
+      <rect x="263" y="137" width="6" height="6" transform="rotate(0,266,140)"/>
+      <rect x="263" y="143" width="6" height="6" transform="rotate(0,266,146)"/>
+      <path d="M 263 149v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,266,152)"/>
+      <path d="M 263 161v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,266,164)"/>
+      <rect x="263" y="167" width="6" height="6" transform="rotate(0,266,170)"/>
+      <rect x="263" y="173" width="6" height="6" transform="rotate(0,266,176)"/>
+      <rect x="263" y="179" width="6" height="6" transform="rotate(0,266,182)"/>
+      <rect x="263" y="185" width="6" height="6" transform="rotate(0,266,188)"/>
+      <rect x="263" y="197" width="6" height="6" transform="rotate(0,266,200)"/>
+      <circle cx="266" cy="212" r="3" transform="rotate(0,266,212)"/>
+      <path d="M 263 221v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(-90,266,224)"/>
+      <path d="M 263 227v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,266,230)"/>
+      <rect x="263" y="245" width="6" height="6" transform="rotate(0,266,248)"/>
+      <path d="M 269 59v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,272,62)"/>
+      <rect x="269" y="65" width="6" height="6" transform="rotate(0,272,68)"/>
+      <path d="M 269 71v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,272,74)"/>
+      <path d="M 269 83v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,272,86)"/>
+      <path d="M 269 89v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(90,272,92)"/>
+      <path d="M 269 101v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,272,104)"/>
+      <path d="M 269 119v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(-90,272,122)"/>
+      <rect x="269" y="125" width="6" height="6" transform="rotate(0,272,128)"/>
+      <rect x="269" y="131" width="6" height="6" transform="rotate(0,272,134)"/>
+      <rect x="269" y="137" width="6" height="6" transform="rotate(0,272,140)"/>
+      <path d="M 269 143v 6h 6v -3a 3 3, 0, 0, 0, -3 -3" transform="rotate(90,272,146)"/>
+      <path d="M 269 161v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,272,164)"/>
+      <path d="M 269 185v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,272,188)"/>
+      <path d="M 269 197v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,272,200)"/>
+      <path d="M 269 221v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,272,224)"/>
+      <path d="M 269 245v 6h 3a 3 3, 0, 0, 0, 0 -6" transform="rotate(0,272,248)"/>
+      <circle cx="272" cy="272" r="3" transform="rotate(0,272,272)"/>
+    </clipPath>
+    <clipPath id="clip-path-corners-square-color-0-0">
+      <path clip-rule="evenodd" d="M 5 20v 12a 15 15, 0, 0, 0, 15 15h 12a 15 15, 0, 0, 0, 15 -15v -12a 15 15, 0, 0, 0, -15 -15h -12a 15 15, 0, 0, 0, -15 15M 20 11h 12a 9 9, 0, 0, 1, 9 9v 12a 9 9, 0, 0, 1, -9 9h -12a 9 9, 0, 0, 1, -9 -9v -12a 9 9, 0, 0, 1, 9 -9" transform="rotate(0,26,26)"/>
+    </clipPath>
+    <clipPath id="clip-path-corners-dot-color-0-0">
+      <rect x="17" y="17" width="18" height="18" transform="rotate(0,26,26)"/>
+    </clipPath>
+    <clipPath id="clip-path-corners-square-color-1-0">
+      <path clip-rule="evenodd" d="M 233 20v 12a 15 15, 0, 0, 0, 15 15h 12a 15 15, 0, 0, 0, 15 -15v -12a 15 15, 0, 0, 0, -15 -15h -12a 15 15, 0, 0, 0, -15 15M 248 11h 12a 9 9, 0, 0, 1, 9 9v 12a 9 9, 0, 0, 1, -9 9h -12a 9 9, 0, 0, 1, -9 -9v -12a 9 9, 0, 0, 1, 9 -9" transform="rotate(90,254,26)"/>
+    </clipPath>
+    <clipPath id="clip-path-corners-dot-color-1-0">
+      <rect x="245" y="17" width="18" height="18" transform="rotate(90,254,26)"/>
+    </clipPath>
+    <clipPath id="clip-path-corners-square-color-0-1">
+      <path clip-rule="evenodd" d="M 5 248v 12a 15 15, 0, 0, 0, 15 15h 12a 15 15, 0, 0, 0, 15 -15v -12a 15 15, 0, 0, 0, -15 -15h -12a 15 15, 0, 0, 0, -15 15M 20 239h 12a 9 9, 0, 0, 1, 9 9v 12a 9 9, 0, 0, 1, -9 9h -12a 9 9, 0, 0, 1, -9 -9v -12a 9 9, 0, 0, 1, 9 -9" transform="rotate(-90,26,254)"/>
+    </clipPath>
+    <clipPath id="clip-path-corners-dot-color-0-1">
+      <rect x="17" y="245" width="18" height="18" transform="rotate(-90,26,254)"/>
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" height="280" width="280" clip-path="url('#clip-path-background-color')" fill="#E0E7FF"/>
+  <rect x="0" y="0" height="280" width="280" clip-path="url('#clip-path-dot-color')" fill="#1E1A4D"/>
+  <rect x="5" y="5" height="42" width="42" clip-path="url('#clip-path-corners-square-color-0-0')" fill="#1E1A4D"/>
+  <rect x="17" y="17" height="18" width="18" clip-path="url('#clip-path-corners-dot-color-0-0')" fill="#1E1A4D"/>
+  <rect x="233" y="5" height="42" width="42" clip-path="url('#clip-path-corners-square-color-1-0')" fill="#1E1A4D"/>
+  <rect x="245" y="17" height="18" width="18" clip-path="url('#clip-path-corners-dot-color-1-0')" fill="#1E1A4D"/>
+  <rect x="5" y="233" height="42" width="42" clip-path="url('#clip-path-corners-square-color-0-1')" fill="#1E1A4D"/>
+  <rect x="17" y="245" height="18" width="18" clip-path="url('#clip-path-corners-dot-color-0-1')" fill="#1E1A4D"/>
+    <g id="lightning-icon" transform="translate(108, 108)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.3548, 0.3548)">
+            <circle id="Oval" stroke="#E0E7FF" stroke-width="4.68817827" fill="#1E1B4B" cx="31.6452033" cy="31.6452033" r="29.3011142"></circle>
+            <path d="M24.3311004,33.3259068 L33.5802168,19.9838518 C33.7375413,19.7569077 34.0490525,19.7004699 34.2759966,19.8577944 C34.4289691,19.9638395 34.5103728,20.1460805 34.4872686,20.3307758 L33.5265486,28.0108176 C33.4922723,28.2848245 33.6866122,28.5347374 33.960619,28.5690137 C33.9812064,28.571589 34.0019341,28.5728805 34.0226819,28.5728805 L39.1502547,28.5728805 C39.4263971,28.5728805 39.6502547,28.7967381 39.6502547,29.0728805 C39.6502547,29.1735285 39.6198797,29.2718337 39.5631026,29.3549384 L30.0624777,43.2609895 C29.9067014,43.488999 29.5955815,43.5475557 29.367572,43.3917794 C29.2118369,43.285381 29.1292269,43.1004005 29.1539408,42.9134159 L30.2426502,34.6762837 C30.2788335,34.4025222 30.0862383,34.1512622 29.8124768,34.1150789 C29.7907562,34.1122081 29.7688705,34.110768 29.7469611,34.110768 L24.742019,34.110768 C24.4658766,34.110768 24.242019,33.8869104 24.242019,33.610768 C24.242019,33.5089595 24.2730978,33.4095769 24.3311004,33.3259068 Z" id="Path" fill="#E0E7FF"></path>
+        </g>
+    </g>
+  <!--image x="113" y="113" width="54px" height="54px" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjgiIGhlaWdodD0iNjgiIHZpZXdCb3g9IjAgMCA2OCA2OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzQiIGN5PSIzNCIgcj0iMzQiIGZpbGw9IndoaXRlIi8+CjxjaXJjbGUgY3g9IjM0IiBjeT0iMzQiIHI9IjMwIiBmaWxsPSJibGFjayIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTQ0LjM4NzMgMzAuNTc2QzQ0LjY3MDYgMzAuMTgwNiA0NC4zODcyIDI5LjYzMTQgNDMuODk5OCAyOS42MzE0SDM2Ljg3NDhMMzguMjc3NCAyMC40Mjk2QzM4LjUyMTggMTkuMTg3NSAzNi45MTUzIDE4LjQ2OTIgMzYuMTQ3NSAxOS40NzcxTDI0LjYyMzEgMzYuMzk3OUMyNC4zMjM1IDM2Ljc5MTIgMjQuNjA0OSAzNy4zNTY2IDI1LjEwMDIgMzcuMzU2NkgzMi4wODIxTDMwLjYxOTggNDcuNTkwNUMzMC4zOTUyIDQ4Ljg0NDUgMzIuMDMxOSA0OS41MzE1IDMyLjc3NDQgNDguNDk1TDQ0LjM4NzMgMzAuNTc2WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg=="/-->
+</svg>
