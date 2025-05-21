@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="1024px" viewBox="0 0 1280 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-1024x1280</title>
+    <g id="logo-1024x1280" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Outer-Edge" stroke="#A8A29E" stroke-width="34" x="17" y="17" width="1246" height="990" rx="237"></rect>
+        <rect id="Inner-Edge" stroke="#0A0A0A" stroke-width="49" fill="#1E1B4B" x="56.5" y="56.5" width="1165" height="911" rx="202"></rect>
+        <path d="M235.746698,441 L1041.7467,441 C1127.35083,441 1196.7467,510.395864 1196.7467,596 L1196.7467,944 L1196.7467,944 L80.7466976,944 L80.7466976,596 C80.7466976,510.395864 150.142561,441 235.746698,441 Z" id="Reflection" fill="#22205B" transform="translate(638.7467, 692.5) rotate(180) translate(-638.7467, -692.5)"></path>
+        <g id="Prompt" transform="translate(227, 216.9979)">
+            <g id="sparkles-sharp" transform="translate(395.5, 0)" fill="#FCBF24" fill-rule="nonzero">
+                <polygon id="Path" points="222.967568 170.897297 199.656108 108.760108 137.518919 85.4486486 199.656108 62.1371892 222.967568 0 246.279027 62.1371892 308.416216 85.4486486 246.279027 108.760108"></polygon>
+                <polygon id="Path" points="42.7243243 85.4486486 31.2810025 54.1676462 0 42.7243243 31.2810025 31.2810025 42.7243243 0 54.1676462 31.2810025 85.4486486 42.7243243 54.1676462 54.1676462"></polygon>
+                <polygon id="Path" points="105.475676 247 93.6082317 216.14312 62.7513514 204.275676 93.6082317 192.408232 105.475676 161.551351 117.34312 192.408232 148.2 204.275676 117.34312 216.14312"></polygon>
+            </g>
+            <g id="❯" transform="translate(0, -0)" fill="#D6D3D1" fill-rule="nonzero">
+                <polygon id="Path" points="0 243 76.4524164 121.581271 0 0 51.488362 0 126.53655 121.581271 51.488362 243"></polygon>
+            </g>
+            <polygon id="Rectangle" fill="#D6D3D1" transform="translate(256.7099, 223.6737) rotate(-90) translate(-256.7099, -223.6737)" points="237.383567 138.233065 276.036153 138.233065 276.036153 309.114349 237.383567 309.114349"></polygon>
+        </g>
+    </g>
+</svg>
