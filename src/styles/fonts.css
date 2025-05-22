@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'SourceCodePro';
+    font-display: auto;
+    font-weight: 100 1000;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('/fonts/SourceCodePro-VariableFont_wght.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-display: auto;
+    font-weight: 100 1000;
+    font-style: normal;
+    src: url('/fonts/Inter-VariableFont_opsz,wght.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'InterItalic';
+    font-display: auto;
+    font-weight: 100 1000;
+    font-style: normal;
+    src: url('/fonts/Inter-Italic-VariableFont_opsz,wght.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'QwitcherGrypen';
+    font-display: auto;
+    font-weight: 400;
+    font-style: normal;
+    src: url('/fonts/QwitcherGrypen-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'QwitcherGrypenBold';
+    font-display: auto;
+    font-weight: 800;
+    font-style: normal;
+    src: url('/fonts/QwitcherGrypen-Bold.woff2') format('woff2');
+}

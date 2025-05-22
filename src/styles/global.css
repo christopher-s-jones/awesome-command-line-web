@@ -1,0 +1,26 @@
+@import "../styles/fonts.css";
+@import "tailwindcss";
+
+@theme {
+    --font-sans: Inter;
+    --font-mono: SourceCodePro;
+    --font-script: QwitcherGrypenBold;
+}
+:root {
+    color-scheme: light dark;
+    --font-sans: "Inter";
+    --font-mono: "SourceCodePro";
+    --font-script: "QwitcherGrypenBold";
+
+}
+
+.background-grid {
+    z-index: 0;
+    background-size: 100px 100px;
+    background-image: 
+        linear-gradient(90deg, light-dark(var(--color-slate-100),var(--color-slate-800)) 1px, transparent 1px),
+        linear-gradient(180deg, light-dark(var(--color-slate-100),var(--color-slate-800)) 1px, transparent 1px);
+    background-position: top center;
+    opacity: 25%;
+    image-rendering: pixelated;
+}
