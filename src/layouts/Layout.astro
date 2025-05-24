@@ -1,0 +1,96 @@
+---
+export interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+import Header from "../components/Header.astro";
+import Banner from "../components/Banner.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<!doctype html>
+<html lang="en" class="">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link href="/src/styles/global.css" rel="stylesheet" />
+		<title>{title}</title>
+		<!-- <ClientRouter /> -->
+		<script is:inline>
+			/**
+			 * Sets the theme at the root element
+			 * @param theme the theme to set: "light" | "dark"
+			 */
+			const setTheme = (theme) => {
+				if (theme === "light") {
+					document.documentElement.classList.remove("dark");
+				} else {
+					document.documentElement.classList.add("dark");
+				}
+			};
+
+			/**
+			 * Gets the previous theme from the persistent store, if any,
+			 * or from the system settings
+			 */
+			const getTheme = () => {
+				let theme;
+
+				// Set up a system theme change listener
+				const darkPref = window.matchMedia(
+					"(prefers-color-scheme: dark)",
+				);
+				darkPref.addEventListener("change", (event) => {
+					const newTheme = event.matches ? "dark" : "light";
+					if (newTheme === "light") {
+						document.documentElement.classList.remove("dark");
+					} else {
+						document.documentElement.classList.add("dark");
+					}
+				});
+
+				// Otherwise use system settings
+				theme = darkPref.matches ? "dark" : "light";
+				return theme;
+			};
+			const theme = getTheme();
+			setTheme(theme);
+		</script>
+	</head>
+	<body
+		class="relative flex flex-col 
+		items-center justify-center place-content-center
+		antialiased overflow-x-hidden
+		min-w-lvw min-h-lvh
+		bg-no-repeat dark:bg-no-repeat
+		bg-linear-to-r bg-cover
+		from-violet-200 from:10%
+		to-indigo-200
+		dark:from-indigo-950 dark:from-10%
+		dark:to-fuchsia-700
+		text-slate-900 dark:text-slate-50"
+	>
+		<div
+			class="absolute top-0 right-0 left-0 bottom-0 -z-20
+				bg-radial-[at_90%_90%]
+				from-purple-300
+				via-indigo-200 via-50%
+				to-slate-50
+				dark:from-fuchsia-800
+				dark:via-indigo-950 dark:via-70%
+				dark:to-slate-950"
+		>
+			<div
+				class="absolute top-0 right-0 left-0 bottom-0
+					background-grid overflow-hidden -z-10"
+			>
+			</div>
+		</div>
+		<Header />
+		<Banner />
+		<slot />
+		<Footer />
+	</body>
+</html>
