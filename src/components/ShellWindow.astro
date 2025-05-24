@@ -1,0 +1,49 @@
+---
+import { Code } from "astro:components";
+
+// The code to be displayed in the CodeWindow
+const code = 
+`> cat awesome-command-line.txt         
+                                        
+📙 Learn the fundamentals               
+🔨 Build your skills                    
+🚀 Supercharge your computing           
+✨ Embrace your sovereignty             
+                                        
+                                        
+                                        
+                                        
+`
+---
+
+<!-- A mock window used to display code -->
+<div
+    class="relative mx-0 md:mx-auto shadow-2xl
+    bg-slate-300 dark:bg-slate-900 text-slate-500
+    rounded-2xl border border-slate-300 dark:border-indigo-500 border-collapse overflow-hidden
+    w-full"
+>
+    <!-- The window header -->
+    <header
+        class="relative top-0 right-0 left-0 py-1 flex items-center justify-start px-3 space-x-1.5
+                rounded-t-2xl border-b border-b-slate-300 dark:border-b-indigo-500 border-collapse
+                bg-indigo-400 dark:bg-[#22205b] text-center"
+    >
+        <div class="w-3 h-3 mr-2 bg-red-600 rounded-full"></div>
+        <div class="w-3 h-3 mr-2 bg-amber-500 rounded-full"></div>
+        <div class="w-3 h-3 mr-2 bg-green-500 rounded-full"></div>
+        <div class="w-full h-6 items-center"></div>
+    </header>
+    <div class="relative flex flex-col w-full">
+        <!-- The window body -->
+        <div class="relative w-full flex-auto">
+            <pre class="flex min-h-full text-md md:text-lg lg:text-xl xl:text-2xl leading-normal font-mono overflow-hidden">
+                <!-- The line number gutter -->
+                <!-- <div aria-hidden="true" class="flex-none hidden sm:block py-4 pl-6 pr-6
+                    text-right select-none whitespace-normal border-r border-slate-700" style="width: 40px">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42</div> -->
+                <!-- The code panel -->
+                <code class="flex-auto relative block w-full text-left"><Code class="p-4" code={code} lang="console" theme="rose-pine-moon" /></code>
+            </pre>
+        </div>
+    </div>
+</div>
