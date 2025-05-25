@@ -1,0 +1,182 @@
+---
+import ShellWindow from "./ShellWindow.astro";
+import Image from "astro/components/Image.astro";
+import kickoffPoster from "../assets/kickoff-poster-tall.png";
+---
+
+<main
+	class="w-full px-5 md:px-10 lg:px-20 pb-20 lg:pb-40
+		flex flex-col lg:flex-row gap-10 md:gap-10 lg:gap-20
+		items-center lg:items-start justify-center
+		max-w-7xl"
+>
+	<section
+		class="flex flex-col justify-center gap-10
+			font-sans font-medium dark:font-normal
+			leading-8 md:leading-10 lg:leading-14
+			text-center
+			text-3xl md:text-4xl lg:text-5xl
+			text-transparent bg-clip-text
+        	bg-gradient-to-r from-indigo-600 dark:from-indigo-500
+            from-20% to-fuchsia-800 dark:to-sky-300 to-90%
+			z-0 w-full md:w-1/2"
+	>
+		<h1 class="lg:text-left">
+			The command line is a tool of empowerment, and it's for everyone!
+		</h1>
+		<p
+			class="font-light leading-8 lg:leading-10 lg:text-left
+			text-xl lg:text-2xl xl:text-3xl max-w-3xl
+			text-slate-800 dark:text-slate-400"
+		>
+			Learn to use your computer's magic portal in a step by step manner,
+			no experience required. It will soon be your trusty friend on your
+			freedom journey.
+		</p>
+		<div
+			class="flex flex-col md:flex-row gap-5 lg:gap-10
+			items-center justify-center lg:justify-start"
+		>
+			<a
+				href="https://primal.net/p/npub1j8342dle7sp8ull50gdj8nfr3gqtz7r3n5darl7m0mvp70a5t3nqcztgf2"
+				target="offline"
+			>
+				<button
+					class="flex flex-row gap-2 items-center justify-center
+						text-nowrap min-w-[150px] max-w-full
+						bg-indigo-400 dark:bg-indigo-900 
+						hover:bg-indigo-500 hover:dark:bg-indigo-950 rounded-3xl
+						px-5 py-3 text-white text-sm font-semibold
+						border border-slate-300 dark:border-slate-500"
+				>
+					<svg
+						xmlns="http://www.w3.org/2000/svg"
+						class="size-6 text-white"
+						fill="currentColor"
+						viewBox="0 0 512 512"
+						><path
+							d="M406.65 113.39c-4.99-3.66-10.78-7.13-14.78-11.91-2.41-2.88-5.08-8.09-2.15-11.57.58-.68 8.16-3.83 9.06-3.85 6.06-.12 27.85-1.06 29.14-1.54.92-.34.96-1.62.07-2.02-3.48-1.57-7.21-2.29-10.89-3.22-.4-.08-.34-.67.07-.66 0 0 9.87-.09 11.17-.51.92-.29 1.04-1.55.19-2.01-1.79-.96-4.01-1.33-5.94-1.93-5.52-1.71-11.14-2.97-16.44-5.33-6.93-3.23-14.43-11.04-22.55-10.89-14.04.27-17.67 19.12-16.58 30.14 3.18 31.94 42.21 36.9 44.03 63.31.95 13.78-4.78 25.18-17.61 30.89-9.18 4.09-17.77.41-26.9 1.05-3.19.22-6.63 1.98-9.4 1.97-5.4-.03-13.69-7.07-18.66-9.89-32.9-18.69-67.21-14.75-100.98-.51-18.82 7.94-39.39 22.58-59.94 24.62-8.57.85-19.78 0-28.68 0-.46 0-1.78 1.79-1.86 2.6-.21 2.11 3.87 6.21 1.05 6.92-1.68.42-8.26-3.86-11.78-4.3-16.25-2-34.36 7-43.98 19.83-2.51 3.34-12.58 20.95-8.57 23.88 2.55 1.87 13.31-7.45 17.7-5.56-.71 4.42-8.16 24.12-.25 24.83 2.58.23 10.5-9.49 13.34-11.56 1.84-1.34 4.04-3.88 5.97-1.05-1.35 3.36-5.54 18.01-.93 19.32 2.24.64 11.33-5.87 13.96-7.18 6.97-3.47 19.39-6.58 27.18-7.38 8.71-.89 12.93 4.56 20.24 8.28 14.11 7.19 29.66 10.98 45.08 14.34 2.82 1.92-5.04 10.87-6.55 12.59-10.42 11.87-21.18 18.16-34.45 25.84-9.98 5.78-7.43 11.61-11.67 19.94l-40.67 57.85c-4.19 5.23-11.27 4.25-17.05 7.21-3.91 2-15.13 13.77-7.13 14.62 1.29.14 5.76-1.85 5.43.58-.26 1.95-4.11 6.38-5.29 8.69-3.09 6.06-5.24 13.82-3.38 20.55 2.9 10.5 7.67-4.59 9.25-7.33 5.1-8.83 13.64-14.46 19.57-22.33 6.77-8.97 12.5-19.95 19.23-29.3 10.78-14.99 23.13-28.95 34.15-43.78 5.72-2.89 11.92-5.27 15.34-11.13 1.58-2.71 1.49-6.01 3.85-8.65 2.78-3.13 28.12-22.3 32.11-24.5 1.77-.98 20.73-8.36 21.51-7.53.5 3.82-2.79 6.31-4.2 9.39-3.56 7.79-9.78 21.41-5.51 29.34 5.72 10.63 17.75.15 25.51-2.74 14.26-5.3 32.74-11.09 47.45-15.05 2.88-.77 14.95-4.33 16.59-1.89.66.98.13 3.27.49 4.65.76 2.9 3.36 10.65 7.46 9.31 3.32-1.09-1.34-8.36 1.55-10.22 1.59-.09 12.62 13.31 18.56 14.53 6.31 1.3 3.3-3.92 1.79-6.96-2.77-5.56-11.32-19.07-15.26-23.7-6.23-7.32-12.02-6.69-20.75-4.7-14.45 3.29-31.18 9.45-45.58 13.98-2.52.79-17.21 6.31-18.14 6.08-.55-.14-1.1-.95-1.04-1.7.14-1.5 5.15-9.11 6.48-10.45 2.48-2.48 6.61-4.02 9.6-6.58 3.33-2.84 5.6-6.62 8.83-9.55 32.49-.01 77.9-5.66 80.87-46.33.38-5.16-1.3-15.14 1.59-18.99 12-7.98 24.54-14.33 34.1-25.46 17.65-20.53 26.17-48.85 9.5-72.73-3.58-5.12-8.56-9.04-13.55-12.7Z"
+						></path></svg
+					>
+					RSVP via Nostr
+				</button>
+			</a>
+			<a
+				href="mailto:heychris@christopherjones.co?subject=Count%20Me%20In"
+				target="offline"
+			>
+				<button
+					class="flex flex-row gap-2 items-center justify-center
+						text-nowrap min-w-[150px] max-w-full
+						bg-indigo-400 dark:bg-indigo-900
+						hover:bg-indigo-500 hover:dark:bg-indigo-950 rounded-3xl
+						px-5 py-3 text-white text-sm font-semibold
+						border border-slate-300 dark:border-slate-500"
+				>
+					<svg
+						xmlns="http://www.w3.org/2000/svg"
+						viewBox="0 0 24 24"
+						fill="currentColor"
+						class="size-6"
+					>
+						<path
+							d="M1.5 8.67v8.58a3 3 0 0 0 3 3h15a3 3 0 0 0 3-3V8.67l-8.928 5.493a3 3 0 0 1-3.144 0L1.5 8.67Z"
+						></path>
+						<path
+							d="M22.5 6.908V6.75a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3v.158l9.714 5.978a1.5 1.5 0 0 0 1.572 0L22.5 6.908Z"
+						></path>
+					</svg>
+					RSVP via Email
+				</button>
+			</a>
+		</div>
+		<div class="w-full flex flex-col justify-center gap-10">
+			<div
+				class="font-light leading-8 lg:leading-10 lg:text-left
+				text-xl lg:text-2xl xl:text-3xl max-w-3xl
+				text-slate-800 dark:text-slate-400"
+			>
+				<p>Join the video conference via Jitsi Meet:</p>
+				<p>
+					<span class="underline underline-offset-4">Thursdays</span> from:
+				</p>
+				<p>June 5, 2025</p>
+				<p>12pm Pacific Time</p>
+			</div>
+			<a
+				href="https://meet.jitsi.fi/AwesomeCommandLine"
+				target="offline"
+				class="flex flex-col md:flex-row items-center
+					font-light leading-8 lg:leading-10 lg:text-left
+					text-xl lg:text-2xl xl:text-3xl max-w-3xl
+					text-sky-500 underline underline-offset-4"
+			>
+				<span>https://meet.jitsi.fi/</span><span
+					>AwesomeCommandLine</span
+				>
+			</a>
+			<p
+				class="font-light leading-8 lg:leading-10 lg:text-left
+					text-xl lg:text-2xl xl:text-3xl max-w-3xl
+					text-slate-800 dark:text-slate-400"
+			>
+				See the "Get Started" section to prepare for the calls. See you
+				Thursdays!
+			</p>
+		</div>
+		<div
+			class="flex flex-col md:flex-row gap-5 lg:gap-10
+				items-center justify-center lg:justify-start"
+		>
+			<a href="/#get-started">
+				<button
+					class="flex flex-row gap-2 items-center justify-center
+						text-nowrap min-w-[150px] max-w-full
+						bg-gradient-to-r from-sky-500 to-indigo-500
+						hover:from-sky-600 hover:to-indigo-600
+						rounded-3xl px-5 py-3 text-white text-sm font-semibold
+						border border-indigo-40"
+				>
+					<svg
+						xmlns="http://www.w3.org/2000/svg"
+						viewBox="0 0 24 24"
+						fill="currentColor"
+						class="size-6"
+					>
+						<path
+							d="M11.25 4.533A9.707 9.707 0 0 0 6 3a9.735 9.735 0 0 0-3.25.555.75.75 0 0 0-.5.707v14.25a.75.75 0 0 0 1 .707A8.237 8.237 0 0 1 6 18.75c1.995 0 3.823.707 5.25 1.886V4.533ZM12.75 20.636A8.214 8.214 0 0 1 18 18.75c.966 0 1.89.166 2.75.47a.75.75 0 0 0 1-.708V4.262a.75.75 0 0 0-.5-.707A9.735 9.735 0 0 0 18 3a9.707 9.707 0 0 0-5.25 1.533v16.103Z"
+						></path>
+					</svg>
+					Get Started
+				</button>
+			</a>
+			<a href="/#contribute">
+				<button
+					class="flex flex-row gap-2 items-center justify-center
+						text-nowrap min-w-[150px] max-w-full
+						bg-gradient-to-r from-indigo-500 to-sky-500
+						 hover:from-indigo-600 hover:to-sky-600
+						rounded-3xl px-5 py-3 text-white text-sm font-semibold
+						border border-indigo-40"
+				>
+					<svg
+						xmlns="http://www.w3.org/2000/svg"
+						viewBox="0 0 24 24"
+						fill="currentColor"
+						class="size-6"
+					>
+						<path
+							fill-rule="evenodd"
+							d="M9 4.5a.75.75 0 0 1 .721.544l.813 2.846a3.75 3.75 0 0 0 2.576 2.576l2.846.813a.75.75 0 0 1 0 1.442l-2.846.813a3.75 3.75 0 0 0-2.576 2.576l-.813 2.846a.75.75 0 0 1-1.442 0l-.813-2.846a3.75 3.75 0 0 0-2.576-2.576l-2.846-.813a.75.75 0 0 1 0-1.442l2.846-.813A3.75 3.75 0 0 0 7.466 7.89l.813-2.846A.75.75 0 0 1 9 4.5ZM18 1.5a.75.75 0 0 1 .728.568l.258 1.036c.236.94.97 1.674 1.91 1.91l1.036.258a.75.75 0 0 1 0 1.456l-1.036.258c-.94.236-1.674.97-1.91 1.91l-.258 1.036a.75.75 0 0 1-1.456 0l-.258-1.036a2.625 2.625 0 0 0-1.91-1.91l-1.036-.258a.75.75 0 0 1 0-1.456l1.036-.258a2.625 2.625 0 0 0 1.91-1.91l.258-1.036A.75.75 0 0 1 18 1.5ZM16.5 15a.75.75 0 0 1 .712.513l.394 1.183c.15.447.5.799.948.948l1.183.395a.75.75 0 0 1 0 1.422l-1.183.395c-.447.15-.799.5-.948.948l-.395 1.183a.75.75 0 0 1-1.422 0l-.395-1.183a1.5 1.5 0 0 0-.948-.948l-1.183-.395a.75.75 0 0 1 0-1.422l1.183-.395c.447-.15.799-.5.948-.948l.395-1.183A.75.75 0 0 1 16.5 15Z"
+							clip-rule="evenodd"></path>
+					</svg>
+					Contribute
+				</button>
+			</a>
+		</div>
+	</section>
+	<section class="flex items-center justify-center px-0 w-full md:w-1/2">
+		<!-- <ShellWindow /> -->
+		<Image src={kickoffPoster} alt="Six Week Mini-Series Poster Image" />
+	</section>
+</main>
