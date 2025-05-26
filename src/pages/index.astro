@@ -1,0 +1,21 @@
+---
+import Contribute from '../components/Contribute.astro';
+import Description from '../components/Description.astro';
+import GetStarted from '../components/GetStarted.astro';
+import Welcome from '../components/Welcome.astro';
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title='Awesome Command Line'>
+	<div class=" flex flex-col
+		items-center justify-center place-content-center
+		lg:mt-[50px] w-full h-full">
+		<Welcome />
+		<div class="flex flex-col items-center justify-center place-content-center
+			w-full bg-indigo-50 dark:bg-indigo-950">
+			<Description />
+		</div>
+		<GetStarted />
+		<Contribute />
+	</div>
+</Layout>
