@@ -44,7 +44,7 @@ import kickoffPoster from "../assets/kickoff-poster-tall.png";
 				<button
 					class="flex flex-row gap-2 items-center justify-center
 						text-nowrap min-w-[150px] max-w-full
-						bg-indigo-400 dark:bg-indigo-900 
+						bg-indigo-400 dark:bg-indigo-900
 						hover:bg-indigo-500 hover:dark:bg-indigo-950 rounded-3xl
 						px-5 py-3 text-white text-sm font-semibold
 						border border-slate-300 dark:border-slate-500"
@@ -96,25 +96,20 @@ import kickoffPoster from "../assets/kickoff-poster-tall.png";
 				text-xl lg:text-2xl xl:text-3xl max-w-3xl
 				text-slate-800 dark:text-slate-400"
 			>
-				<p>Join the video conference via Jitsi Meet:</p>
 				<p>
 					<span class="underline underline-offset-4">Thursdays</span> from:
 				</p>
 				<p>June 5, 2025</p>
 				<p>12pm Pacific Time</p>
-			</div>
-			<a
-				href="https://meet.jitsi.fi/AwesomeCommandLine"
-				target="offline"
-				class="flex flex-col md:flex-row items-center
-					font-light leading-8 lg:leading-10 lg:text-left
-					text-xl lg:text-2xl xl:text-3xl max-w-3xl
-					text-sky-500 underline underline-offset-4"
-			>
-				<span>https://meet.jitsi.fi/</span><span
-					>AwesomeCommandLine</span
+				<p
+					class="flex flex-col md:flex-row items-center place-content-center
+				font-light leading-8 lg:leading-10 lg:text-left
+				text-xl lg:text-2xl xl:text-3xl max-w-3xl"
 				>
-			</a>
+					<span class="mt-5">Send an RSVP via Nostr or email</span><span> and we'll send you the call
+					link!</span>
+				</p>
+			</div>
 			<p
 				class="font-light leading-8 lg:leading-10 lg:text-left
 					text-xl lg:text-2xl xl:text-3xl max-w-3xl
@@ -175,7 +170,9 @@ import kickoffPoster from "../assets/kickoff-poster-tall.png";
 			</a>
 		</div>
 	</section>
-	<section class="flex items-center justify-center order-first lg:order-last px-0 w-full md:w-1/2">
+	<section
+		class="flex items-center justify-center order-first lg:order-last px-0 w-full md:w-1/2"
+	>
 		<!-- <ShellWindow /> -->
 		<Image src={kickoffPoster} alt="Six Week Mini-Series Poster Image" />
 	</section>
