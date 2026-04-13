@@ -28,7 +28,7 @@ jobs:
         uses: actions/setup-node@v6
 
       - name: Install dependencies
-        uses: npm ci
+        run: npm ci
 
       - name: Build site
         run: npm run build
